@@ -1,6 +1,6 @@
-# Sheet-AZ
+﻿# Sheet-AZ
 
-Version: 0.1.0
+Version: 0.1.1
 
 Full modern AZ spreadsheet app.
 
