@@ -1,10 +1,10 @@
 # Sheet-AZ
 
-Version: 0.1.5
+Version: 0.1.6
 
-Overhauls the Sheet-AZ ribbon, print workflow and formula handling.
+Fixes narrow-window scrolling so the workbook side panel, ribbon tabs and Page Setup/print controls remain reachable.
 
 Installer SHA-256:
-dc20eaed699873f9ce0f784a8b13c76b3155f0442d205715ca355165708a79df
+f101d337d34e30f14dadbf0d230d39c17cba7dc08435e07977d39fe250ed0f3d
 
 Installers are published in GitHub Releases for AZ Manager.
