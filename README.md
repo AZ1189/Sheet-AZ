@@ -1,10 +1,10 @@
 # Sheet-AZ
 
-Version: 0.1.6
+Version: 0.1.7
 
-Fixes narrow-window scrolling so the workbook side panel, ribbon tabs and Page Setup/print controls remain reachable.
+Aligns the top bar, ribbon layout, command icon sizing and compact command spacing with Docu-AZ while keeping the Sheet-AZ workbook, formula, print and chart tools.
 
 Installer SHA-256:
-f101d337d34e30f14dadbf0d230d39c17cba7dc08435e07977d39fe250ed0f3d
+8eab214c505806067731e86a8523ebc37708d91c23c72c4b117cd77a94c70453
 
 Installers are published in GitHub Releases for AZ Manager.
