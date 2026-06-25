@@ -1,10 +1,10 @@
 # Sheet-AZ
 
-Version: 0.1.7
+Version: 0.1.8
 
-Aligns the top bar, ribbon layout, command icon sizing and compact command spacing with Docu-AZ while keeping the Sheet-AZ workbook, formula, print and chart tools.
+Adds Docu-style Sheet-AZ Design and Layout tabs, palette tools, side-panel Workbook/Formulas tabs, pinned ribbon sections, dark/system theme support, and image-in-cell insertion with fit, expand and merge-fit modes.
 
 Installer SHA-256:
-8eab214c505806067731e86a8523ebc37708d91c23c72c4b117cd77a94c70453
+4bb37f03b55dd951ed2e71181c750e41d499653136edf36db1fa6d4b6896a2de
 
 Installers are published in GitHub Releases for AZ Manager.
