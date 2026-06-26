@@ -1,10 +1,10 @@
 # Sheet-AZ
 
-Version: 0.1.9
+Version: 0.1.10
 
-Cleans the Sheet-AZ GUI after the Docu-style update: removes the empty chart/footer space when no charts exist, keeps dark-mode toolbar and ribbon icons green, softens the dark chrome to match Docu-AZ more closely, and adds layout smoke coverage for those regressions.
+Fixes Sheet-AZ cell selection so single-cell clicks, drag ranges, and Shift+Arrow range extension repaint smoothly without collapsing the highlighted range or selecting text inside cells. Adds a selection smoke test for drag and keyboard range behavior.
 
 Installer SHA-256:
-6080bd01187cb59790b09a3808b4b512e3ec09d845ffd04b6d20b425bd118cef
+08e3045c968ea9dac3f0cc857a72951206fb77ca16e6cca69d5c6b269a4f7dc6
 
 Installers are published in GitHub Releases for AZ Manager.
