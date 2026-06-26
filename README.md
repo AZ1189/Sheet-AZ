@@ -1,10 +1,10 @@
 # Sheet-AZ
 
-Version: 0.1.10
+Version: 0.1.11
 
-Fixes Sheet-AZ cell selection so single-cell clicks, drag ranges, and Shift+Arrow range extension repaint smoothly without collapsing the highlighted range or selecting text inside cells. Adds a selection smoke test for drag and keyboard range behavior.
+Normalizes Sheet-AZ dark mode to the shared Docu-AZ surface ladder while keeping Sheet-AZ accents green. Panels, cards, formula bar, inputs, sheet tabs, grid cells, modals, context menus, status pills, chart chrome and print preview now use consistent dark surfaces without the high-contrast boxed look. Adds smoke coverage for dark-theme surface consistency.
 
 Installer SHA-256:
-08e3045c968ea9dac3f0cc857a72951206fb77ca16e6cca69d5c6b269a4f7dc6
+e4f91ad941ec7e9611625b13b0a4025392519571d8f8d0eadd478d1cb31e3068
 
 Installers are published in GitHub Releases for AZ Manager.
