@@ -1,5 +1,5 @@
 # Sheet-AZ
 
-Version: 1.0.0
+Version: 0.1.15
 
 Installer: Sheet-AZ-Setup.exe
