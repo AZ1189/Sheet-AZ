@@ -2,9 +2,9 @@
 
 Public installer-only repository for Sheet-AZ.
 
-Version: 1.0.1
+Version: 1.0.2
 Installer: Sheet-AZ-Setup.exe
-Release notes: Version 1.0.1. Updates the installer usage notice to list only the usage totals and sign-in account link that AZ apps save, rebuilds the signed installer, and keeps source code local-only.
-SHA-256: 02FE05903371C493507FC5B45A016EBFAA91B15F732921E0F539C4C85EB11E1B
+Release notes: Version 1.0.2. Improves Excel workbook formatting fidelity, including styles, dimensions, merged cells, displayed values, and styled XLSX export.
+SHA-256: 91E01354A076E45CF3C41FD4BACDBA0E8C9932D79A48F4F84FD472E5280ECA62
 
 Source code stays local-only and is not published in this repository.
